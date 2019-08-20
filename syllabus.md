@@ -26,3 +26,6 @@ Gorr & Kurland, GIS Tutorial 1 for ArcGIS Pro, Esri Press; 1st ed. 2017  [most c
 ArcGIS Pro Desktop software (180-day software code included with book)  & thumb drive
 
 [The ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book/) (only chapters 5/6, download as free pdf)
+
+# COURSE OUTLINE SYLLABUS 
+(Subject to change) 
