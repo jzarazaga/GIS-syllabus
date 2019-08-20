@@ -50,15 +50,15 @@ MAPPING: Data: find and download site data, site photos
 
 **WEEK 4_ 17 Sept**  	* Jessie At Google Map Conference	
 
-GIS: Guest Workshop with Roger Palmer- gathering data with drones.
+GIS: Guest Workshop with Roger Palmer- gathering data with drones. *to be held on saturday**
 
-MAPPING: Working with and importing raster data. Collecting 
+MAPPING: Working with and importing raster data. Collecting vertical information
 
 **WEEK 5_ 24 Sept**
 
 GIS: add shp into a gdb, adding xy data, attribute/definition queries, features, digitizing	
 
-MAPPING WORK: Presentations of research direction 
+MAPPING WORK: Presentations of research direction, creative exploration of layers and ideas 
 
 MID_TERM AVAILABLE
 
@@ -66,13 +66,13 @@ MID_TERM AVAILABLE
 
 GIS: Spatial Analysis: extract features, merge, append, intersect, union
 
-MAPPING WORK: Presentations of first ideas, research direction 
+MAPPING WORK: Presentations of interactions of 2-3 datasets and research ideas
 
 **WEEK 7_ 8 Oct**
 
 GIS: buffers, proximity, multiple ring, network analyst, cluster analysis 
 
-MAPPING WORK: Revise ideas and connect with Data search 
+MAPPING WORK: Revise ideas and connect with further data search 
 
 **WEEK 8_ 15 Oct FALL BREAK**
 NO CLASS  	(Final deadline for MIDTERM)
@@ -81,7 +81,7 @@ NO CLASS  	(Final deadline for MIDTERM)
 
 GIS:  Raster Analysis: kernel density hot spot, hillshade maps, raster-based index.
 
-MAPPING: presentations of first ideas, teams, research direction & sketch maps
+MAPPING: incorporate raster data into research project
 
 **WEEK 10_ 29 Oct** 
 
@@ -91,21 +91,19 @@ MAPPING: research studio collaboration 2
 
 **WEEK 11_ 5 Nov**
 
-SMU Mapathon: Participate in annual Humanitarian Mapathon (Nov 1)
-
-GIS: In Class GIS WORKSHOP on 3D 
+GIS:Analysis with spectral imagery, remote sensing and Lidar data        
 
 MAPPING: research studio collaboration 3	
 
 **WEEK 12_ 12 Nov** JMZ teaching ESRI workshop 
 
-GIS:Analysis with spectral imagery, remote sensing and Lidar data        
+GIS: In Class GIS WORKSHOP on 3D *guest speaker*
 
 MAPPING: research studio collaboration 4
 
 **WEEK 13_ 19 Nov**  JMZ teaching ESRI workshop
 
-GIS:  Suitability Analysis, Advanced Spatial analysis. 
+SMU and DCCC Humanitatian Mapping Event: teach highschool students at DCCC GIS week *this will not be during class time
 
 MAPPING: research studio collaboration & in class Presentations
 		
@@ -126,6 +124,4 @@ GIS:  FINAL PRESENTATION for RESEARCH: Presentation of Mappings to invited guest
 - Disability Accommodations: Students needing academic accommodations for a disability must first register with Disability Accommodations & Success Strategies (DASS). Call 214- 768-1470 or [begin the process](http://www.smu.edu/Provost/ALEC/DASS). Once registered, students should then schedule an appointment with the professor as early in the semester as possible, present a DASS Accommodation Letter and make appropriate arrangements. Please note that accommodations are not retroactive and require advance notice to implement. 
 - Religious Observance: Religiously observant students wishing to be absent on holidays that require missing class should notify their professors in writing at the beginning of the semester, and should discuss with them, in advance, acceptable ways of making up any work missed because of the absence. (See University Policy No. 1.9.)
 - Excused Absences for University Extracurricular Activities: Students participating in an officially sanctioned, scheduled University extracurricular activity should be given the opportunity to make up class assignments or other graded assignments missed as a result of their participation. It is the responsibility of the student to make arrangements with the instructor prior to any missed scheduled examination or other missed assignment for making up the work. (University Undergraduate Catalogue)
-
-- Student Learning Outcomes: Please include in your syllabi all student learning outcomes, both those specific to your course, as well as those that satisfy major and general education requirements.
 
