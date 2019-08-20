@@ -1,1 +1,1 @@
-This is the first git exercise that I have done. 
+This is the syllabus for the SMU Mapping and GIS class
