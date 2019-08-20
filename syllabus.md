@@ -14,5 +14,15 @@ Beyond this, the course will explore two deeper issues: first, the potential tha
 - Mid -term exam 						10 % 
 - Research (individual & group work) 				40 % 
 - Final Mapping Exercise (undergrad/grad)			20%
-I teach at SMU [School of Engineering](https://www.smu.edu/Lyle/Departments/CEE/People/Faculty/ZarazagaJessie)
 
+## Class/Laboratory Schedule
+- Required 3 hour class sessions on Tuesday mornings, comprising a workshop & a seminar 
+- Participation in at least two GIS@SMU events, eg: Mapathon/ brown bag lunch talks/ workshops
+
+## Required Texts & data
+Gorr & Kurland, GIS Tutorial 1 for ArcGIS Pro, Esri Press; 1st ed. 2017  [most cheaply from Amazon]
+[Kurland exercise data](https://esripress.esri.com/bookResources)
+
+ArcGIS Pro Desktop software (180-day software code included with book)  & thumb drive
+
+[The ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book/) (only chapters 5/6, download as free pdf)
