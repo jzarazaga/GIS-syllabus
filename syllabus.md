@@ -30,91 +30,92 @@ ArcGIS Pro Desktop software (180-day software code included with book)  & thumb 
 # COURSE OUTLINE SYLLABUS 
 (Subject to change) 
 
-**WEEK 1 _    21 Aug**
+**WEEK 1 _    271 Aug**
 
-GIS: Intro to ArcGIS online 
+GIS: Intro to ArcGIS online , McHarg Landscape & Maps
 
-MAPPING: McHarg Landscape & Maps
+MAPPING: Play with online Data_ Open Play as a form of Creativity. 
 
-**WEEK 2_ 28 Aug**
+**WEEK 2_ 3 Sept**
 
-GIS:*  Intro to ArcGIS Pro desktop: features, attributes, SQL  
+GIS: Intro to ArcGIS Pro desktop: features, attributes, SQL  
 
-MAPPING:* Play with online Data: Open Play as a form of Creativity
+MAPPING WORK: Photo-Walk on site, inport photo locations, present image ideas.
 
-**WEEK 3		4 Sept**
+**WEEK 3_ 10 Sept**
 
-GIS: Data: add & export, projections, join data, statistics, census data
+GIS: More Data- add & export, projections, join data, statistics, census data
 
-MAPPING: Presentation of previous work in Neighborhoods. 
+MAPPING: Data: find and download site data, site photos
 
-**WEEK 4 	11 Sept**  		
+**WEEK 4_ 17 Sept**  	* Jessie At Google Map Conference	
+
+GIS: Guest Workshop with Roger Palmer- gathering data with drones.
+
+MAPPING: Working with and importing raster data. Collecting 
+
+**WEEK 5_ 24 Sept**
 
 GIS: add shp into a gdb, adding xy data, attribute/definition queries, features, digitizing	
 
-MAPPING WORK: Photo-Walk on site			
+MAPPING WORK: Presentations of research direction 
+
 MID_TERM AVAILABLE
 
-**WEEK 5 	18 Sept**
-
-GIS: Guest Workshop with Joseph Kerski from ESRI (19th Sept)
-
-MAPPING WORK: Presentations of first ideas, research direction 
-
-**WEEK 6		25 Sept**
+**WEEK 6_ 1 Oct **
 
 GIS: Spatial Analysis: extract features, merge, append, intersect, union
 
 MAPPING WORK: Presentations of first ideas, research direction 
 
-**WEEK 7		3 Oct**
+**WEEK 7_ 8 Oct**
 
 GIS: buffers, proximity, multiple ring, network analyst, cluster analysis 
 
 MAPPING WORK: Revise ideas and connect with Data search 
 
-**WEEK 8		9 Oct FALL BREAK**
+**WEEK 8_ 15 Oct FALL BREAK**
 NO CLASS  	(Final deadline for MIDTERM)
 
-**WEEK 9		16 Oct**
+**WEEK 9_ 22 Oct**
 
 GIS:  Raster Analysis: kernel density hot spot, hillshade maps, raster-based index.
 
 MAPPING: presentations of first ideas, teams, research direction & sketch maps
 
-**WEEK 10	23 Oct** 
+**WEEK 10_ 29 Oct** 
 
-GIS: In Class GIS WORKSHOP on 3D, 
+GIS: Q-GIS open source software introduction 
 
 MAPPING: research studio collaboration 2
 
-**WEEK 11	30 Oct**
+**WEEK 11_ 5 Nov**
 
 SMU Mapathon: Participate in annual Humanitarian Mapathon (Nov 1)
 
-GIS: Analysis with spectral imagery, remote sensing and Lidar data 
+GIS: In Class GIS WORKSHOP on 3D 
 
 MAPPING: research studio collaboration 3	
 
-**WEEK 12	6 Nov**
+**WEEK 12_ 12 Nov** JMZ teaching ESRI workshop 
 
-GIS: Q-GIS open source software introduction       
+GIS:Analysis with spectral imagery, remote sensing and Lidar data        
 
 MAPPING: research studio collaboration 4
 
-**WEEK 13	13 Nov**
+**WEEK 13_ 19 Nov**  JMZ teaching ESRI workshop
 
 GIS:  Suitability Analysis, Advanced Spatial analysis. 
 
 MAPPING: research studio collaboration & in class Presentations
 		
-**WEEK 14	20 Nov**
+**WEEK 14_ 26 Nov**
 THANKSIVING
 
-**WEEK 15	27 Nov** 
+**WEEK 15	3 Dec** 
 GIS:  FINAL PRESENTATION for RESEARCH: Presentation of Mappings to invited guests.    
 
-**5 Dec – 12 Dec		Examinations Period**
+**510 Dec – 18 Dec		Examinations Period**
 
 ## FINAL ASSESSMENT: ##
 
